@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mad Libs</string>
+    <string name="edit_text1">Enter a Noun</string>
+    <string name="edit_text2">Enter a Number >3</string>
+    <string name="edit_text3">Enter a Verb</string>
+    <string name="edit_text4">Enter a Verb</string>
+    <string name="edit_text5">Enter a Relative</string>
+    <string name="submit">Submit</string>
+    <string name="winter_newEngland">Winter In New England</string>
+    <string name="instructions">MadLib Game</string>
+    <string name="setence1">Yesterday, I got  </string>
+    <string name="setence2">wicked pissed </string>
+    <string name="setence3">when a </string>
+    <string name="setence4">snowplow hit my </string>
+    <string name="setence5">for the</string>
+    <string name="setence6">th time.</string>
+    <string name="setence7">I told the</string>
+    <string name="setence8">driver that</string>
+    <string name="setence9"> he could go</string>
+    <string name="setence10">himself </string>
+    <string name="setence11">and I</string>
+    <string name="setence12">was going to</string>
+    <string name="setence13">his </string>
+    <string name="setence14">Long story short, I need bail money, </string>
+    <string name="setence15">Your Loving Grandfather</string>
+</resources>
